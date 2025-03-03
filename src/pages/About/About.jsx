@@ -3,7 +3,7 @@ import Navbar from '../../components/Navbar/Navbar'
 import Hero from '../../components/Hero/Hero'
 import Footer from '../../components/Footer/Footer'
 import aboutImage from '../../assets/about.jpg'
-import Body from './aboutcomponents/body/Body'
+import Body from './aboutcomponents/Body/Body'
 import Title from '../../components/Title/Title'
 import Testimonials from '../Home/homecomponents/Testimonials/Testimonials'
 

@@ -1,0 +1,38 @@
+/* Additional styles for Slick carousel */
+
+/* Arrows positioning and styling */
+.slick-prev {
+    left: 20px;
+    z-index: 20;
+}
+
+.slick-next {
+    right: 20px;
+    z-index: 20;
+}
+
+.slick-prev,
+.slick-next {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.slick-prev::before,
+.slick-next::before {
+    font-size: 40px;
+    color: white;
+}
+
+/* Dots positioning and styling */
+.slick-dots {
+    bottom: 30px;
+}
+
+.slick-dots li button:before {
+    font-size: 12px;
+}
+
+.slick-dots li.slick-active button:before {
+    color: white;
+}

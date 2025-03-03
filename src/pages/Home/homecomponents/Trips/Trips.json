@@ -1,0 +1,17 @@
+[
+    {
+        "image": "italy.jpg",
+        "title": "Trip in Italy",
+        "description": "Italy offers a rich blend of history, art, and culture. Explore Rome's ancient ruins, Renaissance art in Florence, and Venice's romantic canals. Tuscany's rolling hills offer world-class wine and cuisine, while the Amalfi Coast and Cinque Terre provide stunning coastal views, making Italy a perfect mix of history and natural beauty."
+    },
+    {
+        "image": "switzerland.jpg",
+        "title": "Trip in Switzerland",
+        "description": "Switzerland is famous for its stunning Alpine landscapes and crystal-clear lakes. Explore Zurich's cosmopolitan charm, Lucerne's medieval allure, and Geneva's international flair. The country offers world-class skiing, hiking, and scenic train journeys like the Glacier Express. Iconic peaks like the Matterhorn and serene boat rides on Lake Geneva highlight Switzerland's natural splendor."
+    },
+    {
+        "image": "newzealand.jpg",
+        "title": "Trip in New Zealand",
+        "description": "New Zealand is a paradise for nature lovers and adventure seekers. The South Island's Southern Alps offer hiking, skiing, and glacier exploration, while the North Island features lush forests and vibrant Maori culture. Visit the Hobbiton movie set or marvel at Milford Sound's rugged beauty. New Zealand's diverse landscapes and welcoming locals make it an unforgettable destination."
+    }
+]

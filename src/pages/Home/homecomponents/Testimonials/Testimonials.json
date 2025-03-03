@@ -1,0 +1,26 @@
+[
+    {
+        "image": "user-1.png",
+        "name": "Sophia Thompson",
+        "location": "New York, United States",
+        "review": "Traveleon made my dream trip to Switzerland an unforgettable experience. The guides were incredibly knowledgeable, and everything was planned to perfection. I can't wait to book my next adventure with them!"
+    },
+    {
+        "image": "user-2.png",
+        "name": "Liam Martinez",
+        "location": "London, United Kingdom",
+        "review": "From start to finish, Traveleon exceeded my expectations. The service was top-notch, and their attention to detail made my trip to Italy seamless and stress-free. Highly recommend!"
+    },
+    {
+        "image": "user-3.png",
+        "name": "Isabella Garcia",
+        "location": "Paris, France",
+        "review": "I've traveled with many agencies before, but Traveleon truly stands out. The package to Thailand was well-organized, and the local guide was fantastic! Thank you for such a memorable experience."
+    },
+    {
+        "image": "user-4.png",
+        "name": "Ethan Tanaka",
+        "location": "Tokyo, Japan",
+        "review": "Traveleon gave me the best vacation I've ever had! Their team handled everything from booking to last-minute changes for my trip to Australia. I can't praise them enough for their professionalism and care."
+    }
+]
